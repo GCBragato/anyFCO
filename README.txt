@@ -1,0 +1,1 @@
+Esse é um projeto de código aberto Engenheiro Civil Gustavo Bragato. O objetivo é criar uma biblioteca para análise de uma seção qualquer sobre FCO.
